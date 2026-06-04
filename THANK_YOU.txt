@@ -1,0 +1,11 @@
+thank you for downloading ColorClicker.
+
+this started as a small personal project and grew into something i'm
+actually proud of. if you find it useful, that means a lot.
+
+if something breaks, a feature is missing, or you just want to say hi,
+feel free to open an issue on the github page.
+
+hope it works exactly the way you need it to.
+
+  — Martim
