@@ -73,6 +73,14 @@ Extract it and run `ColorClicker.exe`. That's it.
 
 ---
 
+## Support
+
+This took a genuinely long time to build. If you find it useful and want to show some appreciation, Consider buying me a coffee — It means a lot.
+
+**PayPal:** paypal.me/MartimCunha811  
+Or send to **@MartimCunha811** on PayPal
+
+no pressure at all, just happy if it's useful to you.
 ## License
 
 MIT — see `LICENSE` for details.
